@@ -1,5 +1,0 @@
-https://probablydance.com/2016/04/30/neural-networks-are-impressively-good-at-compression/
-
-
-(this one has some practicies)
-https://blog.keras.io/building-autoencoders-in-keras.html
